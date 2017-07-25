@@ -310,7 +310,7 @@ treatment of a particular topic will find suggestions for further reading in the
 \todo[inline]{Copy/recreate deps.html}
 
 A diagram of the dependencies between chapters and some suggested
-paths through the material can be found in the file [deps.html].
+paths through the material can be found in the file `deps.html`.
 
 === System Requirements
 
@@ -412,7 +412,7 @@ how you plan to use the materials and including
 where NAME is your preferred user name.
 
 We'll set you up with access to the subversion repository and developers'
-mailing lists. In the repository you'll find a file [INSTRUCTORS] with further
+mailing lists. In the repository you'll find a file `INSTRUCTORS` with further
 instructions.
 
 
